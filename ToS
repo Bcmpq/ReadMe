@@ -1,0 +1,120 @@
+LuckyTalk Bot – Privacy Policy
+
+Last Updated: May 20, 2026
+
+Thank you for using LuckyTalk. This Privacy Policy explains what data we collect, why we collect it, and how we use it.
+
+By using LuckyTalk, you agree to this Privacy Policy.
+
+
+---
+
+1. Information We Collect
+
+LuckyTalk only collects the minimum data required for its functionality:
+
+User IDs – used to manage active chat sessions (/talk feature)
+
+Server IDs – used to store server-specific settings (such as enabled/disabled commands)
+
+Temporary Message Context – up to the last 10 messages in a conversation, used only to generate relevant AI responses
+
+
+We do not collect passwords, emails, or any personal information outside of Discord.
+
+
+---
+
+2. How We Use Your Data
+
+The data collected is used only for:
+
+Providing conversation features
+
+Improving response relevance (AI context)
+
+Saving server preferences (like command settings)
+
+
+We do not use your data for advertising, marketing, or profiling.
+
+
+---
+
+3. Data Storage & Retention
+
+Message context is temporary and is not permanently stored.
+
+User session data is removed when you use /stoptalk or restart the bot.
+
+Server settings remain stored until changed or the bot is removed from the server.
+
+
+We do not maintain long-term chat logs.
+
+
+---
+
+4. Data Sharing
+
+We do not sell, trade, or share your data with third parties.
+
+However, limited data may be processed by third-party services required for:
+
+AI response generation
+
+Image generation features
+
+
+These services only process data temporarily and do not store it for us.
+
+
+---
+
+5. Data Security
+
+We take reasonable steps to protect stored data. However:
+
+No system is 100% secure
+
+You use the bot at your own risk
+
+
+
+---
+
+6. Your Control Over Data
+
+You have control over your data:
+
+Use /stoptalk to end sessions and clear active context
+
+Leave servers to remove server-specific data association
+
+Contact support if you want data clarification or removal
+
+
+
+---
+
+7. Third-Party Services
+
+LuckyTalk may rely on external APIs (such as AI or image generation providers). These services may process your input temporarily to generate responses.
+
+We are not responsible for their policies or uptime.
+
+
+---
+
+8. Changes to This Policy
+
+We may update this Privacy Policy occasionally. Updates will be reflected by the "Last Updated" date above.
+
+Continued use of LuckyTalk means you accept any changes.
+
+
+---
+
+9. Contact
+
+If you have questions or concerns about your privacy, please contact us via our official support server.
