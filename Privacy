@@ -1,0 +1,142 @@
+
+Privacy Policy for LuckyTalk Bot
+
+Effective Date: May 20, 2026
+
+This Privacy Policy explains how LuckyTalk ("the Bot", "we", "us", or "our") collects, uses, and protects your information when you use our Discord bot. We are committed to being transparent about our data practices.
+
+---
+
+1. Information We Collect
+
+LuckyTalk collects only the minimum information necessary to function properly:
+
+1.1 User IDs
+
+· What: Your Discord user ID (a public identifier)
+· Why: To remember which users have active /talk sessions
+· How long: Until you use /stoptalk or the bot restarts
+
+1.2 Server IDs
+
+· What: Your Discord server ID (a public identifier)
+· Why: To save your server's command preferences (/disablecommand and /enablecommand)
+· How long: Until you re-enable commands or remove the bot
+
+1.3 Message History
+
+· What: The last 10 messages you send while in an active /talk session
+· Why: To provide context for AI responses and maintain conversation flow
+· How long: Temporary – messages are not saved after the bot restarts
+
+1.4 Command Usage Count
+
+· What: Total number of commands used (anonymized)
+· Why: To track bot health and usage patterns
+· How long: Until the bot restarts (counter resets)
+
+---
+
+2. What We Do NOT Collect
+
+We do not collect, store, or access:
+
+· Your email address, password, or any personal contact information
+· Your IP address (we specifically block error messages that could leak this)
+· Messages from servers where /talk has not been activated
+· Images you generate (they are sent directly to Discord, not stored by us)
+· Any data from direct messages (DMs) unless the bot is mentioned
+
+---
+
+3. How We Use Your Information
+
+Your information is used exclusively for:
+
+Purpose Data Used
+Maintaining active conversation sessions User IDs
+Remembering server command preferences Server IDs
+Providing contextual AI responses Message history (last 10 messages)
+Debugging and improving bot performance Anonymized command counts
+
+We do not sell, trade, or share your information with any third parties except as required for basic bot functionality.
+
+---
+
+4. Third-Party Services
+
+LuckyTalk relies on external services to function. These services may process your messages temporarily:
+
+Service Purpose Data Processed
+Discord API Bot hosting and message delivery All bot interactions
+AI Provider Generating text responses Your messages (during active session)
+Image Provider Generating images (when requested) Your image prompts
+
+Important notes:
+
+· We do not control how third-party services handle data. Please review their respective policies.
+· We only send your messages to AI services when you have an active /talk session.
+· We specifically block error messages that could contain your IP address from being sent to Discord.
+
+---
+
+5. Data Storage and Security
+
+· Storage: All data is stored locally on the bot's host server. No cloud storage is used.
+· Security: We use basic security measures to protect stored data.
+· Retention: Message history is cleared when the bot restarts. Server preferences are stored permanently in a local config.json file.
+
+---
+
+6. Your Rights and Choices
+
+You have control over your data:
+
+Action How To
+Stop data collection Use /stoptalk to end your session
+Delete your conversation history Restart the bot or wait for automatic reset
+Opt out entirely Ask your server admin to use /disablecommand
+Request information Contact us through our support server
+
+We respect your privacy choices. If you want your data removed, simply stop using the bot – no further action is needed.
+
+---
+
+7. Children's Privacy
+
+LuckyTalk is not directed at children under 13. We do not knowingly collect information from children under 13. If you believe a child has provided us with information, please contact us through our support server.
+
+---
+
+8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When we do:
+
+· The "Effective Date" at the top will be updated.
+· Significant changes will be announced in our support server.
+· Your continued use of the bot after changes means you accept the updated policy.
+
+---
+
+9. Contact Us
+
+If you have questions, concerns, or requests regarding your privacy:
+
+· Join our official support server
+· Message the bot owner directly (available through the support server)
+
+We will respond as quickly as we can.
+
+---
+
+10. Summary (TL;DR)
+
+· ✅ We only collect User IDs, Server IDs, and your last 10 messages during active conversations.
+· ✅ We do NOT collect IPs, emails, passwords, or any personal information.
+· ✅ We do NOT sell or share your data.
+· ✅ You can stop data collection anytime with /stoptalk.
+· ✅ Your messages are never permanently stored.
+
+---
+
+Thank you for trusting LuckyTalk. We take your privacy seriously. 💙
